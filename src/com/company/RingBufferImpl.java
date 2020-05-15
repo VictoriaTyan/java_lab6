@@ -90,6 +90,9 @@ public class RingBufferImpl<E> implements RingBuffer<E> {
     }
 
     @Override
+    public int getLimitSize() { return MaxSize; }
+
+    @Override
     public Iterator<E> iterator() {
         return new RingBufferIterator();
     }

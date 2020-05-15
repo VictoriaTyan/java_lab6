@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc3b24ac-ac32-4825-bfc7-426e0e032f23" name="Default Changelist" comment="" />
+    <list default="true" id="fc3b24ac-ac32-4825-bfc7-426e0e032f23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Handler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab6/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab6/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab6/com/company/Proxy_class.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab6/com/company/RingBuffer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab6/com/company/RingBuffer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab6/com/company/RingBufferImpl$RingBufferIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab6/com/company/RingBufferImpl$RingBufferIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/lab6/com/company/RingBufferImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/lab6/com/company/RingBufferImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Proxy_class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/RingBuffer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/RingBuffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/RingBufferImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/RingBufferImpl.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Victoria Tyan" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bVZs2zOIDMrQhLS6nzmZ3N5aNn" />
@@ -45,6 +62,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,5 +80,16 @@
       <updated>1588719424309</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

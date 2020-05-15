@@ -31,4 +31,11 @@ public interface RingBuffer<E> extends Iterable<E> {
      * @return размер
      */
     int getSize();
+
+    /**
+     * Возвращает максимальный размер
+     *
+     * @return макс размер
+     */
+    int getLimitSize();
 }
